@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Irina\\Desktop\\control\\task\\task.csproj",
+      "projectUniqueName": "C:\\Users\\Irina\\Desktop\\control\\RumyantsevaIrina-control_task-1\\task\\task.csproj",
       "projectName": "task",
-      "projectPath": "C:\\Users\\Irina\\Desktop\\control\\task\\task.csproj",
+      "projectPath": "C:\\Users\\Irina\\Desktop\\control\\RumyantsevaIrina-control_task-1\\task\\task.csproj",
       "packagesPath": "C:\\Users\\Irina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Irina\\Desktop\\control\\task\\obj\\",
+      "outputPath": "C:\\Users\\Irina\\Desktop\\control\\RumyantsevaIrina-control_task-1\\task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Irina\\AppData\\Roaming\\NuGet\\NuGet.Config"
